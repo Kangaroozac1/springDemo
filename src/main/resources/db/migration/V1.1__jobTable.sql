@@ -1,0 +1,4 @@
+CREATE TABLE job (
+    id UUID NOT NULL PRIMARY KEY,
+    job VARCHAR(100) NOT NULL
+);
